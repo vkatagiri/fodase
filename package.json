@@ -1,0 +1,16 @@
+{
+  "name": "ifunny",
+  "version": "1.0.0",
+  "description": "BOT do iFunny BR Oficial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vkps",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ms": "^2.1.2",
+    "superagent": "^5.1.0"
+  }
+}
